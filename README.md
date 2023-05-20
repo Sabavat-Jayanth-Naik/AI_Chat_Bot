@@ -1,2 +1,2 @@
-# AI_Chat_Bot
-It is an AI voice Assistant which is implemented using Python Modules like Speech_recognition, numpy, transformers,gtts,pywhaytkit.
+# AI_-Chat_Bot
+It is an AI voice assistant which is implemented using python modules like speech_recognition,numpy,transformers,gtts,pywhatkit
